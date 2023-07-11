@@ -1,0 +1,24 @@
+body {
+	background-color: e3dac9;
+	color: black;
+	padding: 10px;
+}
+#image {
+	float: left;
+}
+
+#info {
+	clear: both;
+}
+#image2 {
+	float: left;
+}
+#info2 {
+	clear: both;
+}
+#image3 {
+	float: left;
+}
+#info3 {
+	clear: both;
+}
